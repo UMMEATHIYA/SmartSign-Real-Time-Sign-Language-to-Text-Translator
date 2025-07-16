@@ -70,6 +70,10 @@ python -m streamlit run app.py
   Network URL: http://10.0.0.50:8501
 ```
 ### 🧪 Demo Output
+<img width="1490" height="663" alt="image" src="https://github.com/user-attachments/assets/3a1dbdef-ec95-4221-807b-10ffdf9ef376" />
+
+---
+<img width="1087" height="872" alt="image" src="https://github.com/user-attachments/assets/708f4e7e-5aca-467e-89d8-73c5e302b36c" />
 
 
 ### 💬 Contact
